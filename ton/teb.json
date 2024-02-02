@@ -1,9 +1,9 @@
 {
     "name": "Teb",
-    "eth_address": "0xf49c0CAd3955a2A9b6dA376122FE957D186747ff",
-    "tonV3R2Address": "EQCp7-3bZ02f3Tif1DCHYqcWZI8bzclwrwIeXd_wOmpxxJhJ",
-    "ethPublic": "0x04f0a28edc5c99e8bfc9e18045d2d0a1bc853aaf34d6903a60f9bfe8042b17f5591d83c0f5a12ac67a62b9da4defea2db5b84ecca42c3e4415be646f4850790d84",
-    "tonPublic": "0xe82be533cba78623028421431fb7c519f3f383c1be792215fa21d3edf184a941",
+    "eth_address": "0x34CF7b08759A984b66929716C6e020713494B5b8",
+    "tonV3R2Address": "EQASDsA2x9eEV9WfZ36ipTErr-EpGc9gCc3LJGoGB_yaL1sD",
+    "ethPublic": "0x044505c5ccfd6f3f7c0269d7deac0fa83c9c5766e8079d01dab6ebd2c462ac1e4c502c6f16fc22631e631f150c429f49d3f227b5ddbc5b06cd7d4b6d1cec3f6657",
+    "tonPublic": "0x471be85f597dddc6fe726af341f35157728c189f04f3fe361e0fdc490361f46a",
     "homepage": "https://tebplace.com",
     "contact": "contact@tebplace.com",
     "location": "KOREA",
